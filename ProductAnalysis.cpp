@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <cstdlib>
 using namespace std;
 #define preProccTaxRate 0.15 // Define a constant tax rate
 int main()
