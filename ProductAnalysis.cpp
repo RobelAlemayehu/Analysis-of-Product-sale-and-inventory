@@ -17,7 +17,15 @@ int main()
     float productPricePerUnit;
     int numberOfItemSold = 0;
 
-
+    // sample variables to show different initialization methods
+    int sampleVariable = 16; // direct initialization 
+    
+    // assignment after declaration
+    int sampleVariable2; 
+    sampleVariable2 = 19;
+    
+    // list initialization 
+    double sampleVariable3{21};
 
     // prompt input from the user
     cout << "Please enter the product's name(Single word): ";
